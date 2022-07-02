@@ -63,4 +63,5 @@ while running:
   * **[Leshy SFmaker](https://www.leshylabs.com/apps/sfMaker/):** download game effect, and also make your own sound effect
   
   
+<br>  
 <img src="https://github.com/CindyFu1226/Pygame_basic/blob/main/2.png" width="400" height="300" alt="2.py program screenshot"><br>
