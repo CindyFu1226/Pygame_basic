@@ -61,6 +61,12 @@ while running:
 ### 5.Game assets
   * **[Icon Archive](https://iconarchive.com/):** download game characters
   * **[Leshy SFmaker](https://www.leshylabs.com/apps/sfMaker/):** download game effect, and also make your own sound effect
+  * **[Font Space](https://www.fontspace.com/commercial-fonts):** free Fonts for commercial use
+  * **[Game Art 2D](https://www.gameart2d.com/freebies.html):** free game assets
+  * **[Open Game Art](https://opengameart.org/)**
+  * **[freepik](https://www.freepik.com/free-photos-vectors/game-background):** game background images
+  * **[Chosic](https://www.chosic.com/free-music/games/):** download free video games music
+  * **[RedKetchup](https://redketchup.io/color-picker):** color picker
   
   
 <br>  
